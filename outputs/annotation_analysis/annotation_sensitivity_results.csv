@@ -1,0 +1,5 @@
+image,experiment,actual_class,predicted_class,confidence,benign_probability,malignant_probability,normal_probability,predicted_mask_pixels,segmentation_dice
+malignant (111).png,original,Malignant,Benign,0.901229,0.901229,0.098757,1.4e-05,8037,0.777653
+malignant (111).png,annotation_blurred,Malignant,Malignant,0.886323,0.106209,0.886323,0.007468,10018,0.83511
+malignant (111).png,control_blurred,Malignant,Benign,0.955237,0.955237,0.044747,1.7e-05,7660,0.759659
+malignant (111).png,annotation_constant,Malignant,Malignant,0.763908,0.235674,0.763908,0.000418,8766,0.803612

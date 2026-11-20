@@ -1,0 +1,4 @@
+class,original_images,mask_files,valid_images,valid_masks,images_with_masks,images_without_masks,orphan_mask_stems
+benign,437,454,437,454,437,0,0
+malignant,210,211,210,211,210,0,0
+normal,133,133,133,133,133,0,0

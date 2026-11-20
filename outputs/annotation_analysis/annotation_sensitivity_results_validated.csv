@@ -1,0 +1,13 @@
+image,experiment,actual_class,predicted_class,confidence,benign_probability,malignant_probability,normal_probability,predicted_mask_pixels,segmentation_dice
+malignant (111).png,original,Malignant,Benign,0.901229,0.901229,0.098757,1.4e-05,8037,0.777653
+malignant (111).png,annotation_blurred,Malignant,Benign,0.690463,0.690463,0.309426,0.000111,7779,0.788017
+malignant (111).png,control_blurred,Malignant,Benign,0.901246,0.901246,0.09874,1.4e-05,8037,0.777653
+malignant (111).png,annotation_constant,Malignant,Benign,0.745471,0.745471,0.254461,6.7e-05,7851,0.78462
+malignant (2).png,original,Malignant,Benign,0.51261,0.51261,0.486274,0.001116,11780,0.759413
+malignant (2).png,annotation_blurred,Malignant,Malignant,0.550861,0.447811,0.550861,0.001328,12082,0.756422
+malignant (2).png,control_blurred,Malignant,Benign,0.522642,0.522642,0.476225,0.001133,11781,0.759456
+malignant (2).png,annotation_constant,Malignant,Malignant,0.524774,0.473719,0.524774,0.001507,12046,0.75667
+malignant (53).png,original,Malignant,Benign,0.576327,0.576327,0.154386,0.269287,2287,0.815364
+malignant (53).png,annotation_blurred,Malignant,Benign,0.470408,0.470408,0.156392,0.3732,2291,0.815124
+malignant (53).png,control_blurred,Malignant,Benign,0.597761,0.597761,0.142074,0.260165,2206,0.800695
+malignant (53).png,annotation_constant,Malignant,Benign,0.489719,0.489719,0.160917,0.349363,2343,0.82333

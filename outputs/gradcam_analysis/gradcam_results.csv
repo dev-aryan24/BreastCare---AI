@@ -1,0 +1,7 @@
+filename,actual_class,predicted_class,confidence,classification_correct,predicted_class_gradcam
+malignant (111).png,Malignant,Benign,0.901229,False,D:\BreastCare-AI\outputs\gradcam_analysis\images\malignant (111)_gradcam.png
+malignant (28).png,Malignant,Benign,0.839247,False,D:\BreastCare-AI\outputs\gradcam_analysis\images\malignant (28)_gradcam.png
+malignant (48).png,Malignant,Benign,0.88907,False,D:\BreastCare-AI\outputs\gradcam_analysis\images\malignant (48)_gradcam.png
+normal (117).png,Normal,Malignant,0.598731,False,D:\BreastCare-AI\outputs\gradcam_analysis\images\normal (117)_gradcam.png
+normal (111).png,Normal,Benign,0.738412,False,D:\BreastCare-AI\outputs\gradcam_analysis\images\normal (111)_gradcam.png
+benign (256).png,Benign,Malignant,0.587527,False,D:\BreastCare-AI\outputs\gradcam_analysis\images\benign (256)_gradcam.png

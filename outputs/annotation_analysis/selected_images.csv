@@ -1,0 +1,21 @@
+filename,image_path,actual_class,predicted_class,confidence,classification_correct,ground_truth_mask_pixels,predicted_mask_pixels,segmentation_dice,normal_false_positive,segmentation_review,selection_group
+malignant (111).png,D:\BreastCare-AI\data\raw\BUSI\malignant\malignant (111).png,Malignant,Benign,0.901229,False,10614,8037,0.777653,False,False,Misclassified Malignant
+malignant (2).png,D:\BreastCare-AI\data\raw\BUSI\malignant\malignant (2).png,Malignant,Benign,0.51261,False,17116,11780,0.759413,False,False,Misclassified Malignant
+malignant (131).png,D:\BreastCare-AI\data\raw\BUSI\malignant\malignant (131).png,Malignant,Benign,0.54004,False,2462,4042,0.651291,False,False,Misclassified Malignant
+malignant (53).png,D:\BreastCare-AI\data\raw\BUSI\malignant\malignant (53).png,Malignant,Benign,0.576327,False,2972,2287,0.815364,False,False,Misclassified Malignant
+malignant (19).png,D:\BreastCare-AI\data\raw\BUSI\malignant\malignant (19).png,Malignant,Malignant,0.991104,True,9149,9439,0.867334,False,False,Correct Malignant
+malignant (203).png,D:\BreastCare-AI\data\raw\BUSI\malignant\malignant (203).png,Malignant,Malignant,0.812582,True,11294,8673,0.761657,False,False,Correct Malignant
+malignant (85).png,D:\BreastCare-AI\data\raw\BUSI\malignant\malignant (85).png,Malignant,Malignant,0.952259,True,9788,10097,0.90611,False,False,Correct Malignant
+malignant (70).png,D:\BreastCare-AI\data\raw\BUSI\malignant\malignant (70).png,Malignant,Malignant,0.755287,True,2626,2941,0.838153,False,False,Correct Malignant
+benign (190).png,D:\BreastCare-AI\data\raw\BUSI\benign\benign (190).png,Benign,Malignant,0.542489,False,4473,5436,0.901403,False,False,Misclassified Benign
+benign (310).png,D:\BreastCare-AI\data\raw\BUSI\benign\benign (310).png,Benign,Malignant,0.508194,False,3626,1263,0.466353,False,True,Misclassified Benign
+benign (85).png,D:\BreastCare-AI\data\raw\BUSI\benign\benign (85).png,Benign,Malignant,0.611977,False,5400,7730,0.791622,False,False,Misclassified Benign
+benign (384).png,D:\BreastCare-AI\data\raw\BUSI\benign\benign (384).png,Benign,Malignant,0.509173,False,4762,2795,0.724097,False,False,Misclassified Benign
+benign (365).png,D:\BreastCare-AI\data\raw\BUSI\benign\benign (365).png,Benign,Benign,0.933985,True,1556,3531,0.600354,False,False,Correct Benign
+benign (135).png,D:\BreastCare-AI\data\raw\BUSI\benign\benign (135).png,Benign,Benign,0.948062,True,1244,1219,0.90946,False,False,Correct Benign
+benign (88).png,D:\BreastCare-AI\data\raw\BUSI\benign\benign (88).png,Benign,Benign,0.911419,True,3984,6630,0.715847,False,False,Correct Benign
+benign (264).png,D:\BreastCare-AI\data\raw\BUSI\benign\benign (264).png,Benign,Benign,0.977963,True,4522,4635,0.904445,False,False,Correct Benign
+normal (117).png,D:\BreastCare-AI\data\raw\BUSI\normal\normal (117).png,Normal,Malignant,0.598731,False,0,4732,0.0,True,False,Normal - Misclassified
+normal (101).png,D:\BreastCare-AI\data\raw\BUSI\normal\normal (101).png,Normal,Malignant,0.595154,False,0,31,0.0,True,False,Normal - Misclassified
+normal (47).png,D:\BreastCare-AI\data\raw\BUSI\normal\normal (47).png,Normal,Normal,0.933838,True,0,0,1.0,False,False,Normal - Correct
+normal (22).png,D:\BreastCare-AI\data\raw\BUSI\normal\normal (22).png,Normal,Normal,0.925542,True,0,0,1.0,False,False,Normal - Correct

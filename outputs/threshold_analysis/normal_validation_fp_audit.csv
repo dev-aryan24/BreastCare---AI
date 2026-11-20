@@ -1,0 +1,20 @@
+filename,predicted_class,classification_confidence,pixels_t0.50,false_positive_t0.50,pixels_t0.65,false_positive_t0.65,pixels_t0.70,false_positive_t0.70
+normal (106).png,Normal,0.641822,147,True,0,False,0,False
+normal (107).png,Normal,0.809753,0,False,0,False,0,False
+normal (110).png,Benign,0.457509,1257,True,1049,True,945,True
+normal (13).png,Normal,0.49433,1289,True,493,True,224,True
+normal (131).png,Normal,0.820981,0,False,0,False,0,False
+normal (15).png,Benign,0.349652,415,True,217,True,122,True
+normal (16).png,Benign,0.586168,940,True,858,True,819,True
+normal (18).png,Normal,0.895555,0,False,0,False,0,False
+normal (25).png,Benign,0.656435,2109,True,1698,True,1506,True
+normal (50).png,Normal,0.949319,0,False,0,False,0,False
+normal (56).png,Normal,0.830849,162,True,79,True,43,True
+normal (68).png,Normal,0.846771,0,False,0,False,0,False
+normal (80).png,Benign,0.496241,60,True,0,False,0,False
+normal (83).png,Malignant,0.898965,166,True,17,True,2,True
+normal (86).png,Normal,0.878354,248,True,183,True,120,True
+normal (88).png,Normal,0.495332,0,False,0,False,0,False
+normal (89).png,Normal,0.774055,0,False,0,False,0,False
+normal (91).png,Malignant,0.444039,10,True,0,False,0,False
+normal (97).png,Normal,0.679289,0,False,0,False,0,False

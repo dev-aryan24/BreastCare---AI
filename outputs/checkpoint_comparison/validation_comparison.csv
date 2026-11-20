@@ -1,0 +1,3 @@
+checkpoint,epoch,stored_val_loss,samples,accuracy,macro_f1,lesion_dice,lesion_images,missing_lesion_masks,normal_fp_rate,normal_false_positives,normal_images
+best_multitask_cnn.pth,4,1.7478602119114088,115,0.6869565217391305,0.6716034216034216,0.4852758847799206,96,0,0.8421052631578947,16,19
+best_multitask_cnn_gpu.pth,12,1.2379089070403058,115,0.7565217391304347,0.7318509341535657,0.6586499248320857,96,0,0.5789473684210527,11,19

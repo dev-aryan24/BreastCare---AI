@@ -1,0 +1,23 @@
+filename,annotation_id,annotation_type,x1,y1,x2,y2,control_x1,control_y1,control_x2,control_y2,visual_verified,notes
+malignant (2).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+malignant (131).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+malignant (53).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+malignant (19).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+malignant (203).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+malignant (85).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+malignant (70).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+benign (190).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+benign (310).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+benign (85).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+benign (384).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+benign (365).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+benign (135).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+benign (88).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+benign (264).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+normal (117).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+normal (101).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+normal (47).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+normal (22).png,,none,,,,,,,,,True,No visible annotation identified during manual review.
+malignant (111).png,1.0,visual_annotation,35.0,188.0,65.0,203.0,130.0,188.0,160.0,203.0,True,RT2 text region with nearby blank control region; awaiting geometric validation
+malignant (2).png,,visual_annotation,0,160,32,176,40,208,72,224,True,RT1 text annotation with visually approved control region
+malignant (53).png,,visual_annotation,96,16,144,32,40,8,88,24,True,SATELLITE text annotation with visually approved control region

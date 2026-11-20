@@ -1,0 +1,21 @@
+filename,mask_count,mask_files,original_mask_dimensions,foreground_pixels,mask_status
+malignant (111).png,1,malignant (111)_mask.png,"(421, 470)",10614,OK
+malignant (2).png,1,malignant (2)_mask.png,"(548, 495)",17116,OK
+malignant (131).png,1,malignant (131)_mask.png,"(604, 461)",2462,OK
+malignant (53).png,2,malignant (53)_mask.png; malignant (53)_mask_1.png,"(569, 471); (569, 471)",2972,OK
+malignant (19).png,1,malignant (19)_mask.png,"(554, 459)",9149,OK
+malignant (203).png,1,malignant (203)_mask.png,"(577, 411)",11294,OK
+malignant (85).png,1,malignant (85)_mask.png,"(733, 485)",9788,OK
+malignant (70).png,1,malignant (70)_mask.png,"(668, 463)",2626,OK
+benign (190).png,1,benign (190)_mask.png,"(734, 470)",4473,OK
+benign (310).png,1,benign (310)_mask.png,"(544, 468)",3626,OK
+benign (85).png,1,benign (85)_mask.png,"(561, 465)",5400,OK
+benign (384).png,1,benign (384)_mask.png,"(760, 425)",4762,OK
+benign (365).png,1,benign (365)_mask.png,"(582, 431)",1556,OK
+benign (135).png,1,benign (135)_mask.png,"(776, 582)",1244,OK
+benign (88).png,1,benign (88)_mask.png,"(873, 560)",3984,OK
+benign (264).png,1,benign (264)_mask.png,"(462, 391)",4522,OK
+normal (117).png,1,normal (117)_mask.png,"(770, 574)",0,OK
+normal (101).png,1,normal (101)_mask.png,"(678, 572)",0,OK
+normal (47).png,1,normal (47)_mask.png,"(391, 313)",0,OK
+normal (22).png,1,normal (22)_mask.png,"(552, 470)",0,OK

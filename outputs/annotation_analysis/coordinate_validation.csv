@@ -1,0 +1,2 @@
+filename,annotation_overlap_pixels,annotation_lesion_pixels,annotation_lesion_percent,control_lesion_pixels,control_lesion_percent,rectangles_separate,annotation_avoids_lesion,control_avoids_lesion,overall_geometric_validation
+malignant (111).png,0,0,0.0,0,0.0,True,True,True,True
